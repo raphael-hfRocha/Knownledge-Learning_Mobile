@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314208072392",
+    "project_id": "livraria-kl",
+    "storage_bucket": "livraria-kl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314208072392:android:b95d1ac0ee08d5942cabfd",
+        "android_client_info": {
+          "package_name": "com.Inovart.livraria_kl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314208072392-90etqrje0av3dupmconq93g90l3deip5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcdSLoN-J5W368Mw7iEJYvIC4vso4IWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314208072392-90etqrje0av3dupmconq93g90l3deip5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
