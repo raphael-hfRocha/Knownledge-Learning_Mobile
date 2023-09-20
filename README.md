@@ -1,2 +1,2 @@
 # Knownledge-Learning_Mobile📱📚⚛
-Projeto semestral do 4º semestre concluído com o objetivo de desenvolver um aplicativo em React Native da livraria Knownledge&Learning
+Semester project of the 4th semester completed with the objective of developing an application in React Native for the Knownledge&Learning bookstore
